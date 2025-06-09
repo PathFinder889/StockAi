@@ -1,5 +1,5 @@
 # StockAi
 A Dashboard 
-<br>
 Author-> Rachit Sachdeva
+<br>
 source-> Private, not shared into company's mainframe
